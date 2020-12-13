@@ -1,0 +1,30 @@
+name: ratatouille
+description: A new Flutter application.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.0
+  google_fonts: ^1.1.1
+  http: ^0.12.2
+  camera: ^0.5.8+17
+#  cloud_firestore: ^0.13.7
+  firebase_database:
+  firebase_core:
+  firebase_storage:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - images/

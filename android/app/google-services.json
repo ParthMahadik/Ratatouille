@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "770744501228",
+    "firebase_url": "https://hackoff20-1f576-default-rtdb.firebaseio.com",
+    "project_id": "hackoff20-1f576",
+    "storage_bucket": "hackoff20-1f576.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770744501228:android:61118c41a079915d77f6c9",
+        "android_client_info": {
+          "package_name": "com.apoorvsingh2000.ratatouille"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770744501228-kokubih6bqq5p1agc4o5gcggr73f380f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apoorvsingh2000.ratatouille",
+            "certificate_hash": "f53083c91af3d1b9e3b8a0a40d8456b6c4f23f40"
+          }
+        },
+        {
+          "client_id": "770744501228-jj8ckdq5ng8sn0alkip9dv3vnt0q2i6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcMiXwb1wR8OT7w4D09ViYhcilwtvias8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770744501228-jj8ckdq5ng8sn0alkip9dv3vnt0q2i6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
